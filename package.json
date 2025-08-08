@@ -1,6 +1,6 @@
 {
   "name": "ronald-gustavo-library",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A global NPM package library developed by Ronald Gustavo.",
   "main": "dist/index.js",
   "scripts": {
