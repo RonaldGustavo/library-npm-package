@@ -15,7 +15,6 @@
   "author": "ronald gustavo",
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "^19.1.9",
     "typescript": "^5.9.2"
   }
 }

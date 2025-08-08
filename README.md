@@ -1,23 +1,12 @@
-# Simple Add Library
+# 🌟 Welcome to My Global NPM Package library!
 
-This is a simple npm library that provides an `add` function to add two numbers.
+A global NPM package library developed by Ronald Gustavo.
 
-## Usage
 
-```js
-const { add } = require('simple-add-library');
-console.log(add(2, 3)); // 5
-```
+## 🚀 Tech Stack Used
 
-## Publish
+- **TypeScript** – Typed JavaScript for safer and scalable code
+- **Node.js** – Runtime environment for building and running the library
 
-To publish this package to npm:
-1. Login to npm: `npm login`
-2. Publish: `npm publish`
-
-## Test
-
-Run the test script:
-```
-npm test
-```
+## ✨ Showcase
+![Success Install Package](https://github.com/RonaldGustavo/personal-app-ronald/blob/main/public/assets/image/UI-HOME1.png)
