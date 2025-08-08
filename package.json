@@ -2,11 +2,15 @@
   "name": "ronald-gustavo-library",
   "version": "1.0.0",
   "description": "A simple npm library that adds two numbers.",
-  "main": "add.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["add", "utility", "math"],
+  "keywords": [
+    "add",
+    "utility",
+    "math"
+  ],
   "author": "ronald",
   "license": "MIT"
 }
