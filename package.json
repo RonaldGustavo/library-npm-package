@@ -1,10 +1,11 @@
 {
   "name": "ronald-gustavo-library",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A global NPM package library developed by Ronald Gustavo.",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "node test.js"
+    "build": "tsc",
+    "test": "npm run build && npx ts-node test.ts"
   },
   "keywords": [
     "add",
@@ -12,5 +13,9 @@
     "math"
   ],
   "author": "ronald gustavo",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^19.1.9",
+    "typescript": "^5.9.2"
+  }
 }
